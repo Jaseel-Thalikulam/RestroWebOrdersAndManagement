@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "697629214687",
+    "firebase_url": "https://bromag-india-private-limited-default-rtdb.firebaseio.com",
+    "project_id": "bromag-india-private-limited",
+    "storage_bucket": "bromag-india-private-limited.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697629214687:android:f405aa622a7cb825d5a66a",
+        "android_client_info": {
+          "package_name": "Rider.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD176n1FUUS6O8c6dMwNx_y00YceAv-RAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

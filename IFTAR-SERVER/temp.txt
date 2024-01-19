@@ -1,0 +1,37 @@
+* ✅ Restaurant photo is also required at the time of creating rider
+
+* For any order, when rider is going to pick it:
+  - ✅need start location and start time of rider
+  - ✅after delivered, set endLocation and endTime, totalDistance covered at restaurant
+  - also upload selfie at the time of reaching restaurant
+
+* ✅ Need an option to cancel an order from rider side along with cancellation reason
+
+* ✅ Current order should be stored at rider profile only
+
+* How to check the status of both online and call order for the following details:
+  - if order is created but not picked
+  - ✅if order is picked
+  - ✅if order is cancelled by rider
+  - if order is cancelled by user
+  - ✅if order is delivered by rider
+  - ✅if rider is reached at the restaurant
+
+* Real time notifications
+
+
+TODOS:
+------------------
+* ✅ add new middleware for admin auth
+* ✅ API for admin login
+* ✅ update PATCH API to return updated data without password
+* ✅ update file APIs to return file url after successful upload
+* ✅ add function for firebase notification
+* ✅ in get API, delivery boy details should be at root level
+* merge call order and online order
+* API to add restaurant details
+* API to get delivery boy details (inc location) for admins
+* FirebaseAppError: Service account object must contain a string "project_id" property.
+* ✅ Rider login should also return profile details
+* ✅ Rider auth middleware should return json instead of simple strings
+* ✅ Add fcmToken in delivery boy profile

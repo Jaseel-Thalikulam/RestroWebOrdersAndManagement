@@ -1,0 +1,5 @@
+local = http://localhost:8080
+dev = https://api.dev.bromagindia.com
+qa = https://api.qa.bromagindia.com
+proprod = https://api.preprod.bromagindia.com
+prod = https://backend.bromagindia.in
